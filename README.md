@@ -12,8 +12,11 @@ my public data
 
 # HAR
 
-## WebSocket
+## har/ws-playground.netlify.app.har
 
+- HAR file containing WebSocket communication
 - accessed https://ws-playground.netlify.app/
-- https://noid11.github.io/public/har/ws-playground.netlify.app.har
+- har/ws-playground.netlify.app.har
+    - https://raw.githubusercontent.com/noid11/public/main/har/ws-playground.netlify.app.har
+    - https://noid11.github.io/public/har/ws-playground.netlify.app.har
 
